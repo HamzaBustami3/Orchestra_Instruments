@@ -1,8 +1,9 @@
-style {
-    background: url('2f70ac24d08dd96fe9bf1a326339ba41.jpg') no-repeat center center fixed, #e0e0e0;
-    background-size: cover;
-  } 
-style
+.background {
+  background-image: url("2f70ac24d08dd96fe9bf1a326339ba41.jpg"); width:"500" height="500";
+
+  background-color: bisque;
+} 
+
 .banner {
-  background-image: ;
+  background-color: yellow ;
 }
