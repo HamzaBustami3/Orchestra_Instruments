@@ -24,5 +24,14 @@
   font-weight: 400;
   position: absolute;
   font-style: italic;
-  
+  font-family: cursive;
+}
+.body {
+  background-image: url(music\ design\ 3.jpeg                                                                                                                       )
+}
+.head {
+  font-style: italic;
+  font-weight: bold;
+  background-color: darkcyan;
+  font-family: cursive;
 }
