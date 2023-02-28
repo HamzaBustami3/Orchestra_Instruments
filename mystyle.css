@@ -6,7 +6,8 @@
   background-color: rgb(206, 255, 196) ;
 }
 .brassy {
-  background-image: url(music\ design\ 2.jpg);
+  background-image: url(music\ design\ 2.jpg); 
+  background-color: bisque;
 }
 .bullet_points {
   text-decoration: wavy;
