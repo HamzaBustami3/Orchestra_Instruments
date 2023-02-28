@@ -5,6 +5,9 @@
 .head {
   background-color: rgb(206, 255, 196) ;
 }
+.brassy {
+  background-image: url(music\ design\ 2.jpg);
+}
 .bullet_points {
   text-decoration: wavy;
   text-shadow: 3cap;
@@ -26,7 +29,7 @@
   font-style: italic;
   font-family: cursive;
 }
-.body {
+.corpus {
   background-image: url("musical\ design\ 1.jpg");                                                                                                                     
 }
 .head {
@@ -35,4 +38,11 @@
   background-color: darkcyan;
   font-family: cursive;
   text-decoration-color: blanchedalmond;
+}
+.bigtext{
+  background-color: beige;
+  font-weight: 400;
+  position: absolute;
+  font-style: italic;
+  font-family: cursive;
 }
